@@ -1,5 +1,5 @@
 # AI-Week6
-Part 1: Theoretical Analysis (40%)
+# Part 1: Theoretical Analysis (40%)
 1. Essay Questions
 
 Q1: Explain how Edge AI reduces latency and enhances privacy compared to cloud-based AI. Provide a real-world example (e.g., autonomous drones).
@@ -8,7 +8,7 @@ Q2: Compare Quantum AI and classical AI in solving optimization problems. What
 
 Q3: Discuss the societal impact of Human-AI collaboration in healthcare. How might it transform roles like radiologists or nurses?
 
-2. Case Study Critique
+# 2. Case Study Critique
 
 Topic: AI in Smart Cities
 
@@ -16,8 +16,8 @@ Read: AI-IoT for Traffic Management.
 
 Analyze: How does integrating AI with IoT improve urban sustainability? Identify two challenges (e.g., data security).
 
-Part 2: Practical Implementation (50%)
-Task 1: Edge AI Prototype
+# Part 2: Practical Implementation (50%)
+# Task 1: Edge AI Prototype
 
 Tools: TensorFlow Lite, Raspberry Pi/Colab (simulation).
 
@@ -31,7 +31,7 @@ Explain how Edge AI benefits real-time applications.
 
 Deliverable: Code + report with accuracy metrics and deployment steps.
 
-Task 2: AI-Driven IoT Concept
+# Task 2: AI-Driven IoT Concept
 
 Scenario: Design a smart agriculture system using AI and IoT.
 
@@ -45,7 +45,7 @@ Sketch a data flow diagram (AI processing sensor data).
 
 Deliverable: 1-page proposal + diagram.
 
-Task 3: Ethics in Personalized Medicine
+# Task 3: Ethics in Personalized Medicine
 
 Dataset: Cancer Genomic Atlas.
 
@@ -57,7 +57,7 @@ Suggest fairness strategies (e.g., diverse training data).
 
 Deliverable: 300-word analysis.
 
-Part 3: Futuristic Proposal (10%)
+# Part 3: Futuristic Proposal (10%)
 
 Prompt: Propose an AI application for 2030 (e.g., AI-powered climate engineering, neural interface devices).
 
